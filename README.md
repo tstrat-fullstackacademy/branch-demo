@@ -8,6 +8,8 @@ Change 3 - Mason Swager
 
 Change 4 - Travis
 
-Branch for TravisChanges
+Change 5ish - Mason Swager
 
-Another change
+Change 6 - Mason Swager
+
+Changes 7: Branch for TravisChanges
