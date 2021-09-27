@@ -4,4 +4,6 @@ Change 1
 
 Change 2
 
-This is MY change 3 - Travis
+Change 3 - Mason Swager
+
+Change 4 - Travis
