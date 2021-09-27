@@ -11,3 +11,5 @@ Change 4 - Travis
 Change 5ish - Mason Swager
 
 Change 6 - Mason Swager
+
+Changes 7: Branch for TravisChanges
